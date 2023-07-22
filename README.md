@@ -8,7 +8,8 @@
 
 🔧 Tech Stack: I am well-versed in several programming languages, including Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), SQL,C++, MATLAB,VHDL, JAVA, LTSpice, DipTrace, Assembly 8051. Additionally, I have experience with tools like TensorFlow, PyTorch Git, and Docker to help me build robust and scalable applications.
 
-📚 Publications: I have contributed to research in the field of generative deep learning models and have worked on exciting inverse problems. You can find my publications and research papers on my <a href="linkedin.com/in/baturalp-guven"> linkedin profile </a>  or contact me directly for more details.
+📚 Publications: I have contributed to research in the field of generative deep learning models and have worked on exciting inverse problems. You can find my publications and research papers on my 
+<a href="https://www.linkedin.com/in/baturalp-guven/"> linkedin profile </a> or contact me directly for more details.
 
 📫 Contact: If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
 
