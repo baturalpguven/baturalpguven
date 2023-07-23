@@ -9,7 +9,7 @@ I recently graduated from Bilkent University with a degree in Electrical and Ele
 
 
 ## 💡 Interests
-My interests span a wide range of topics, including signal processing, wireless communications, embedded systems, and data science. Particularly, I am deeply fascinated by generative models such as denoising diffusional models (DDPMs) and conditional Generative adversarial networks the intriguing world of inverse problems.
+My interests span a wide range of topics, including signal processing, wireless communications, embedded systems, and data science. Particularly, I am deeply fascinated by generative models such as denoising diffusional models (DDPMs) and conditional Generative Adversarial Networks (cGANs) the intriguing world of inverse problems.
 
 ## 🔧 Tech Stack
 I am well-versed in several programming languages, including Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), SQL,C++, MATLAB,VHDL, JAVA, LTSpice, DipTrace, Assembly 8051. Additionally, I have experience with tools like TensorFlow, PyTorch Git, and Docker to help me build robust and scalable applications.
