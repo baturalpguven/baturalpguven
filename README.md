@@ -9,7 +9,7 @@ I recently graduated from Bilkent University with a degree in Electrical and Ele
 
 
 ## 💡 Interests
-My interests span across a wide range of topics, including signal processing, wireless communications, embedded systems, and data science. Particularly, I am deeply fascinated by denoising diffusional models (DDPMs) and the intriguing world of inverse problems.
+My interests span a wide range of topics, including signal processing, wireless communications, embedded systems, and data science. Particularly, I am deeply fascinated by generative models such as denoising diffusional models (DDPMs) and conditional Generative adversarial networks the intriguing world of inverse problems.
 
 ## 🔧 Tech Stack
 I am well-versed in several programming languages, including Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), SQL,C++, MATLAB,VHDL, JAVA, LTSpice, DipTrace, Assembly 8051. Additionally, I have experience with tools like TensorFlow, PyTorch Git, and Docker to help me build robust and scalable applications.
@@ -19,7 +19,7 @@ I have contributed to research in the field of generative deep learning models a
 <a href="https://www.linkedin.com/in/baturalp-guven/"> linkedin profile </a> or contact me directly for more details.
 
 ## 📫 Contact
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
+If you have any questions, or suggestions, or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
 
 ## 🌱 Learning
 In this fast-paced tech world, I believe continuous learning is essential. Currently, I am exploring advanced topics in DDPMs, inverse problems, and their applications in real-world scenarios.
