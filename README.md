@@ -1,10 +1,12 @@
+
+# 🚀 About Me
 👋 Hello, World! I'm Baturalp Güven 👨‍💻
+
+Welcome to my GitHub! Here, you'll find a collection of my diverse projects covering various programming languages and fields. As a passionate engineer, I love to explore and experiment with new technologies and solutions.
 
 ## 🎓 Education
 I recently graduated from Bilkent University with a degree in Electrical and Electronics Engineering (EEE). Currently, I am pursuing my M.Sc. in Communications and Electronics Engineering at TUM (Technical University of Munich).
 
-## 🚀 About Me
-Welcome to my GitHub! Here, you'll find a collection of my diverse projects covering various programming languages and fields. As a passionate engineer, I love to explore and experiment with new technologies and solutions.
 
 ## 💡 Interests
 My interests span across a wide range of topics, including signal processing, wireless communications, embedded systems, and data science. Particularly, I am deeply fascinated by denoising diffusional models (DDPMs) and the intriguing world of inverse problems.
