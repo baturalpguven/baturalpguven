@@ -16,7 +16,7 @@ I am well-versed in several programming languages, including Python (Pandas, PyT
 
 ## 📚 Publications
 I have contributed to research in the field of generative deep learning models and have worked on exciting inverse problems. You can find my publications and research papers on my 
-<a href="https://www.linkedin.com/in/baturalp-guven/"> linkedin profile </a> or contact me directly for more details.
+<a href="https://www.linkedin.com/in/baturalp-guven/"> linkedin profile </a>, <a href="https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera"> related repos </a> or contact me directly for more details.
 
 ## 📫 Contact
 If you have any questions, or suggestions, or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
