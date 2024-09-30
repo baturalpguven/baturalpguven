@@ -24,10 +24,10 @@ These tools help me build robust and scalable applications, automate workflows, 
 
 ## Publications
 I have contributed to research in the field of generative deep learning models and have worked on exciting inverse problems. You can find my publications and research papers on my 
-<a href="https://www.linkedin.com/in/baturalp-guven/">LinkedIn profile</a>, <a href="https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera">related repos</a>, or visit my ORCID profile: <a href="https://orcid.org/0009-0002-2925-842X">https://orcid.org/0009-0002-2925-842X</a>. Feel free to contact me directly for more details.
+<a href="https://www.linkedin.com/in/baturalp-guven/">LinkedIn profile</a>, <a href="https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera">related repos</a>, or visit my <a href="https://orcid.org/0009-0002-2925-842X">ORCID profile</a>. Feel free to contact me directly for more details.
 
 ## Contact
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
+If you have any questions or suggestions or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
 
 ## Let's Collaborate
 I'm excited to collaborate on interesting projects and contribute to open-source initiatives. Don't hesitate to share them with me. Together, we can make a positive impact in the tech and research community.
