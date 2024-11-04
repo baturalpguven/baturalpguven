@@ -28,6 +28,3 @@ I have contributed to research in the field of generative deep learning models a
 
 ## Contact
 If you have any questions or suggestions or just want to connect, feel free to reach out to me via email at btrgvn@gmail.com. I am always open to collaboration and learning from fellow researchers and developers.
-
-## Let's Collaborate
-I'm excited to collaborate on interesting projects and contribute to open-source initiatives. Don't hesitate to share them with me. Together, we can make a positive impact in the tech and research community.
